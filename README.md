@@ -45,10 +45,6 @@ python app.py
 ```
 3️⃣ Start Exploring Your Data! 🎉
 
-## 📹 Video Demo
-Check out this video showcasing a test of the app:<br>
-
-
 ## 💡 Contributors
 👩‍💻 El Hadifi Soukaina <br>
 👨‍💻 El Guelta Mohamed-Saber <br>
